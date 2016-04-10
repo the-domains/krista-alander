@@ -1,8 +1,7 @@
 name: Krista + Alander
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49756
-title: Home Page
+layout_spectrum: 0.8652511176187545
+typography_spectrum: 0.6420919361989945
 cta:
   domain: null
   bucket: null
@@ -25,5 +24,5 @@ color:
   brandStrength: 0.11792970402166247
   lightness: 0.2728464666288346
   saturation: 0.38104985072277486
-  rhythmicContrast: 0
+  rhythmicContrast: 0.27099310839548707
 purpose: []
